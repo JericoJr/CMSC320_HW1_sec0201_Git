@@ -1,0 +1,5 @@
+Q1: Why might we consider using Git?
+
+Answer: So its easier to do group projects, where each person has different roles and tasks and doing it all in one file can by messy 
+and disorganized so we make branches where each person can do their own work. In addition, allows us to track our own and each 
+other progress and revert back to any only changes if we reach a roadblock or problem.
