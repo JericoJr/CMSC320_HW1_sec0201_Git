@@ -1,0 +1,5 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data Science could be helpful for Meteorology. An example is to use data from past history 
+on weather patterns in specific locations which could be used to create models to predict the
+weather in the future based on specific conditions.
