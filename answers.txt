@@ -10,3 +10,9 @@ Answer: Data Science could be helpful for Meteorology. An example is to use data
 on weather patterns in specific locations which could be used to create models to predict the
 weather in the future based on specific conditions.
 
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: The difference is that merging takes two branches and combines them into one while still 
+referring to past histories of both branches even after joining, whereas rebasing which still acounts 
+in history of both branches but it organizes history as one rather than two separate branches. 
